@@ -1,0 +1,15 @@
+:root {
+    --noir: #181818;
+    --blanc: #ffffff;
+    --gris: #eeeeee;
+    --gris_clair: #fbfbfb;
+    --Police_de_base: 'PT Sans', sans-serif;
+    --Police_de_titre: 'Libre Baskerville', serif;
+}
+
+ /*font-family: 'PT Sans', sans-serif;*/
+ /*font-family: 'Libre Baskerville', serif;*/
+
+ .Liens-ordi {
+     display: none;
+ }
